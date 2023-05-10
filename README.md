@@ -6,7 +6,7 @@ This repository is my personal portfolio where I showcase my projects and skills
 ## Skills
 
 - Programming languages: Python (basics), C++(basics).
-- Tools and technologies: Object-oriented programming.
+- Tools and technologies: Object-oriented programming (basics).
 
 ## Projects
 
