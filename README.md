@@ -1,11 +1,11 @@
 # Portfolio_Ivan_Ramo
 
-Hi! My name is Iván Ramos and I am a Robotics and digital systems engineering student at Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM].
+Hi! My name is Iván Ramos and I am a Robotics and Digital Systems Engineering student at Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM].
 This repository is my personal portfolio where I showcase my projects and skills as a developer.
 
 ## Skills
 
-- Programming languages: Python (basics), C++(basics).
+- Programming languages: Python (basics), C++ (basics).
 - Tools and technologies: Object-oriented programming (basics).
 
 ## Projects
